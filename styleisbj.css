@@ -1,0 +1,82 @@
+.bodybg{
+    
+    color: #ffffff;
+    background-color: rgb(231, 250, 243);
+
+}
+
+.imgsize{
+    height: 25em;
+    width: 35em;
+    padding-top: 2em;
+}
+
+.parapadd{
+    font-size: 1.3em;
+}
+
+.navbackground{
+    background-color: rgb(34, 59, 50);  
+}
+
+.dropdown-menu{
+    background-color: rgb(34, 59, 50);  
+}
+
+.dropdown-item{
+    color: white;
+}
+
+.textedit{
+    text-decoration: none;
+    color: white;
+    padding-bottom: 0.2em;
+}
+
+.navmagnet{
+    display: flex;
+    justify-self: end;
+}
+
+.largetxt{
+    font-size: 1.2em;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+ .dropdown-toggle::after {
+    content: none;
+}
+
+.headtxt{
+    color: rgb(34, 59, 50);  
+}
+
+.blacktxt{
+    color: black;
+}
+.bluetxt{
+   color:  rgb(29, 41, 81);
+}
+/* .bordercol{
+    border: 3px solid rgb(29, 41, 81);
+} */
+
+.parawidth{
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.sliding_images{
+    max-height: 100%;
+}
+
+.carouselcov{
+    height: 25em;
+}
+
+.caroselhome{
+    height: 40.5em;
+}
+
