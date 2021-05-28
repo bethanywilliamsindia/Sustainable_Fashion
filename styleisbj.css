@@ -93,6 +93,9 @@
         width: 22em; 
         height: 34em;
     }  
+    .caroselhome{
+        max-height: 16em;
+    }
 }
 
 .sliding_images{
